@@ -26,3 +26,7 @@ npm install
 npm run dev
 
 http://localhost:5173
+
+
+.env
+VITE_API_BASE=http://localhost:8000
